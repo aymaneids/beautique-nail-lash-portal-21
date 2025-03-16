@@ -97,7 +97,7 @@ const testimonialsList = [
   {
     id: 12,
     name: 'Rachel White',
-    text: 'I love that they offer complimentary beverages while you get your services done. It's the little touches that make Beautique stand out from other salons.',
+    text: 'I love that they offer complimentary beverages while you get your services done. It\'s the little touches that make Beautique stand out from other salons.',
     rating: 5,
     service: 'Deluxe Pedicure',
     date: 'August 2023',
