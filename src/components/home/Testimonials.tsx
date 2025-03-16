@@ -7,7 +7,7 @@ const testimonials = [
   {
     id: 1,
     name: 'Sarah Johnson',
-    text: 'Absolutely love my nails! The staff is so professional and the salon is immaculate. I won't go anywhere else in Beaver Dam!',
+    text: 'Absolutely love my nails! The staff is so professional and the salon is immaculate. I won\'t go anywhere else in Beaver Dam!',
     rating: 5,
     service: 'Gel Manicure',
   },
