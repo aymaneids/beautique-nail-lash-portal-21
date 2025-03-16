@@ -1,8 +1,7 @@
-
 import { useEffect } from "react";
 import PageHeader from "@/components/common/PageHeader";
 import BookingButton from "@/components/ui/BookingButton";
-import { CheckCircle2, Sparkles, ShieldCheck, UserHeart } from "lucide-react";
+import { CheckCircle2, Sparkles, ShieldCheck, Heart } from "lucide-react";
 
 const AboutPage = () => {
   // Update document title
@@ -15,7 +14,7 @@ const AboutPage = () => {
       id: 1,
       title: "Personalized Service",
       description: "We take the time to understand your preferences and provide individualized attention to ensure your complete satisfaction.",
-      icon: UserHeart,
+      icon: Heart,
     },
     {
       id: 2,
